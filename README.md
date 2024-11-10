@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ce49ae18-22bf-4c27-8988-6259c2bb9e76)# Todo List Application
+# Todo List Application
 
 This is a full-stack Todo List application built with a **React frontend** and a **Node.js/Express backend**. It allows users to create, edit, delete, and search through their todos. The application also includes user authentication for secure access to the todo list. It's deployed on **Vercel**, providing users with an easily accessible live version.
 
